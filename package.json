@@ -1,7 +1,7 @@
 {
   "name": "formatter-coffeescript",
   "main": "./lib/formatter-coffeescript",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Formatter for CoffeeScript",
   "repository": "https://github.com/atom-community/formatter-coffeescript",
   "license": "MIT",
