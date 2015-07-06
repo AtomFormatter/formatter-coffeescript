@@ -3,7 +3,7 @@
   "main": "./lib/formatter-coffeescript",
   "version": "0.1.0",
   "description": "Formatter for CoffeeScript",
-  "repository": "https://github.com/AtomFormatter/formatter-coffeescript",
+  "repository": "https://github.com/atom-community/formatter-coffeescript",
   "license": "MIT",
   "engines": {
     "atom": ">=0.183.0 <2.0.0"
